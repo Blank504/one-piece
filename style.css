@@ -1,0 +1,32 @@
+/** @format */
+
+.login {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+
+  text-transform: capitalize;
+}
+.username {
+  color: white;
+  font-size: large;
+}
+.email {
+  color: white;
+  font-size: large;
+}
+.password {
+  color: white;
+  font-size: large;
+}
+.button {
+  background-color: black;
+  color: white;
+}
+body {
+  background-image: url("1234.jpg");
+  background-size: 1550px 755px;
+  background-repeat: no-repeat;
+  position: relative;
+  left: 500px;
+  top: 200px;
+}
