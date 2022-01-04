@@ -23,7 +23,7 @@
   color: white;
 }
 body {
-  background-image: url("1234.jpg");
+  background-image: url("1234.jpg"), url("small/my-small.png");
   background-size: 1550px 755px;
   background-repeat: no-repeat;
   position: relative;
@@ -31,4 +31,5 @@ body {
   top: 200px;
   max-width: 100%;
   overflow-x: hidden;
+  background-position: top, bottom;
 }
