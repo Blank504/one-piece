@@ -29,4 +29,6 @@ body {
   position: relative;
   left: 500px;
   top: 200px;
+  max-width: 100%;
+  overflow-x: hidden;
 }
